@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+a{
+	text-decoration:none;
+}
+img{
+	border:none;
+}
+
+small{
+	font-size:9px;
+}
+
+table{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	width: auto;
+	margin: auto;
+}
+td{
+	border-bottom: 1px solid #D3D3D3;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+th{
+	background-color: #CDCDCD;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+form{
+	border:2px solid #C0C0C0;
+	background-color:#F2F2F2;
+	width:500px;
+	margin:auto;
+	margin-bottom:20px;
+}
+
+form p{
+	margin:auto;
+	width:450px;
+	margin-top:5px;
+	margin-bottom:3px;
+}
+form input{
+	border:1px solid #CCCCCC;
+	padding:3px;
+}
+
+form .text{
+	width:750px;
+}
+form input{
+    font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+}#frmClienteNuevo {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	width: 550px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#frmClienteActualizar {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	width: 550px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
